@@ -1,0 +1,67 @@
+body{
+	background-color: #f78e69;
+	padding: 0;
+	margin:0;
+}
+.nav{
+	background-color: #f78e69;
+	color: white;
+
+}
+
+.principal{
+	background-image: url(../img/uno.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	border-bottom: 5vh solid #f78e69;
+}
+.greeen{
+	background-color: #abe188;
+	padding-bottom: 10vh;
+	padding-top: 10vh;
+	border-bottom: 5vh solid #f78e69;
+}
+.pinky{
+	background-color: #f78e69;
+	padding: 4vh;
+	padding-bottom: 5vh;
+	color: white;
+
+}
+.titleabout{
+	padding-bottom: 3vh;
+}
+.twopandas{
+	background-image: url(../img/dos.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	border-bottom: 5vh solid #f78e69;
+}
+img{
+	border:0.5em solid white;
+}
+h2{
+	font-weight: bolder;
+	padding-bottom: 6vh;
+	font-size: 6vh;
+	color: white;
+}
+.lazzypanda{
+	background-image: url(../img/tres.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+footer{
+	padding: 3vh;
+	background-color: #f78e69;
+	color: white;
+}
+.padding{
+	padding-top: 5vh;
+}
+.paddingr{
+	padding-right: 6vh;
+}
